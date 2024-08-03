@@ -1,2 +1,2 @@
 # Halo Semua
-Baru belajar github dan git
+Halo Temen-Temen Sekarang Saya Baru belajar github dan git
